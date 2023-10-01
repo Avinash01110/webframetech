@@ -141,7 +141,7 @@ const Sidebar = ({togglemenu, menu, state}) => {
           <div className="flex justify-center items-center relative px-6">
               <LiaSearchSolid className="left-10 flex items-center text-[#7879F1] h-6 w-6 absolute" />
               <input
-                className="text-sm h-10 px-12 w-full rounded-full bg-[#211A75]"
+                className="text-sm text-[#FFFFFF] h-10 px-12 w-full rounded-full bg-[#211A75]"
                 type="search"
                 placeholder="Search here"
               />

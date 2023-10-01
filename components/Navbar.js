@@ -43,7 +43,7 @@ const Navbar = () => {
             <div className="flex justify-center items-center relative">
               <LiaSearchSolid className="left-6 flex items-center text-[#7879F1] h-6 w-6 absolute" />
               <input
-                className="text-sm h-10 px-16 lg:w-60 xl:w-80 rounded-full bg-[#211A75]"
+                className="text-sm text-[#FFFFFF] h-10 px-16 lg:w-60 xl:w-80 rounded-full bg-[#211A75]"
                 type="search"
                 placeholder="Search here"
               />
